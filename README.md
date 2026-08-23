@@ -1,5 +1,9 @@
 # Personal Knowledge System for Learning and Application
 
+**Created by Reza Shaki | رضا شاکی**
+
+[English overview](index.html) · [نمای فارسی](index-fa.html)
+
 > A privacy-safe portfolio overview of an Obsidian-based system for turning raw information into reusable knowledge and practical work.
 
 ## Why I built it
